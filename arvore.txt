@@ -1,0 +1,29 @@
+{
+    "Filo1": {
+        "Classe1": {
+            "Ordem1": {
+                "Familia1": {},
+                "Familia2": {}
+            },
+            "Ordem2": {
+                "Familia3": {
+                    "Genero3": {},
+                    "Genero4": {}
+                }
+            }
+        },
+        "Classe2": {
+            "Ordem3": {},
+            "Ordem4": {
+                "Familia4": {},
+                "Familia5": {
+                    "Genero1": {},
+                    "Genero2": {
+                        "Especie1": {},
+                        "Especie2": {}
+                    }
+                }
+            }
+        }
+    }
+}
